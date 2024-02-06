@@ -1,2 +1,2 @@
 # frontend
-Production frontend of Prsnt AI
+Presentable production frontend of Prsnt AI
